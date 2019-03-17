@@ -1,0 +1,3 @@
+class MyArraySizeException extends Exception{
+
+}
